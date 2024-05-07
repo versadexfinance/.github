@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="![image](assets/versadex-logo.jpeg)"  />
+<img align="right" height="150" src="assets/versadex-logo.jpeg"  />
 
 ###
 
